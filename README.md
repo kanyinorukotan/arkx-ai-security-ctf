@@ -46,7 +46,7 @@ For each level: enumerate the exposed tool and its input handling → probe for 
 
 ## Full report
 
-The complete findings report, with evidence screenshots and step-by-step reproduction for all six levels, is included in this repo: [`arkx_findings_report.pdf`](./arkx_findings_report.pdf).
+The complete findings report, with evidence screenshots and step-by-step reproduction for all six levels, is included in this repo: [`arkx findings report.pdf`](./arkx%20findings%20report.pdf).
 
 ---
 
